@@ -1,0 +1,92 @@
+[
+	{
+		"title": "tinta tattoo",
+		"description": "tinta negra",
+		"price": 500,
+		"thumbnail": "foto",
+		"code": "5525",
+		"stock": 23,
+		"id": 1
+	},
+	{
+		"title": "Maquina de tattoo 4",
+		"description": "descripcion",
+		"price": 2000,
+		"thumbnail": "imagen 4",
+		"code": "1524",
+		"stock": 10,
+		"id": 2
+	},
+	{
+		"title": "tinta tattoo",
+		"description": "tinta negra",
+		"price": 500,
+		"thumbnail": "foto",
+		"code": "00422025",
+		"stock": 23,
+		"id": 3
+	},
+	{
+		"title": "tinta tattoo",
+		"description": "tinta negra",
+		"price": 500,
+		"thumbnail": "foto",
+		"code": "0000025",
+		"stock": 23,
+		"id": 4
+	},
+	{
+		"title": "Maquina de tattoo 4",
+		"description": "descripcion",
+		"price": 2000,
+		"thumbnail": "imagen 4",
+		"code": "4444",
+		"stock": 10,
+		"id": 5
+	},
+	{
+		"title": "Maquina de tattoo 4",
+		"description": "descripcion",
+		"price": 2000,
+		"thumbnail": "imagen 4",
+		"code": "6666666666",
+		"stock": 10,
+		"id": 6
+	},
+	{
+		"title": "Maquina de tattoo 4",
+		"description": "descripcion",
+		"price": 2000,
+		"thumbnail": "imagen 4",
+		"code": "66675566666",
+		"stock": 10,
+		"id": 7
+	},
+	{
+		"title": "Maquina de tattoo 4",
+		"description": "descripcion",
+		"price": 2000,
+		"thumbnail": "imagen 4",
+		"code": "6522575566666",
+		"stock": 10,
+		"id": 8
+	},
+	{
+		"title": "Maquina de tattoo 4",
+		"description": "descripcion",
+		"price": 2000,
+		"thumbnail": "imagen 4",
+		"code": "6522577585856666",
+		"stock": 10,
+		"id": 9
+	},
+	{
+		"title": "Maquina de tattoo 4",
+		"description": "descripcion",
+		"price": 2000,
+		"thumbnail": "imagen 4",
+		"code": "pouyh85856666",
+		"stock": 10,
+		"id": 10
+	}
+]
